@@ -149,7 +149,7 @@ Jupyter Notebook
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/nike-sales-analysis.git
+git clone https://github.com/infantjoshwa/nike-sales-analysis.git
 cd nike-sales-analysis
 2️⃣ Install Dependencies
 pip install -r requirements.txt
